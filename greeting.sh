@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#Adding comments for assignment 7 -Sydney Dennis
 Hour=$(date +%H)
 
 WeekDay=$(date +%A)
